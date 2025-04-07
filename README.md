@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @najwazmri
-- 🌱 I’m currently learning something new in my life.
+- 🌱 I’m currently learning something about Software Engineering
 - 📫 How to reach me ? just email me. i will available there!
 <!---
 najwazmri/najwazmri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
