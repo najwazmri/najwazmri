@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @najwazmri
-- 🌱 I’m currently learning something about Software Engineering
-- 📫 How to reach me ? just email me. i will available there!
-<!---
-najwazmri/najwazmri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👩🏻‍🎓 A new software engineering student eager to      learn, explore, and build! 
+- 🌿 I'm passionate about coding, problem-solving, and understanding the foundations of software development.
+- 🎨 Day by day, I write code as a software engineering student. By night, I bring ideas to life as a part-time designer. Balancing both worlds keeps me learning and growing!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najwazmri&show_icons=true&theme=radical)
