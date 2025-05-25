@@ -1,4 +1,4 @@
-![Uploading github-header-image.png…]()
+![logo]![github-header-image](https://github.com/user-attachments/assets/45fbae31-39b4-4600-be4a-09e658924f37)
 
 - 👋 Hi, I’m @najwazmri
 - 👩🏻‍🎓 A new software engineering student eager to      learn, explore, and build! 
