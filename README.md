@@ -10,8 +10,10 @@
 🎓 **Bachelor of Science Computer (Software Engineering)**  
 University of Technology Malaysia (2025-2029)  
 
-🎓 **Diploma In Product Design**  
-Advanced Technology Training Centre (ADTEC) Jerantut (2019-2021)
+📚 **Current Courses (Semester 2 2024/2025):**
+- SECP1513 - Technology and Information Systems
+- SECD2613 - Syastem Analysis & Design
+- SECI2143 - Probability & Statistic Data Analysis
 
 
 ## 🌐 Socials:
@@ -23,5 +25,6 @@ Advanced Technology Training Centre (ADTEC) Jerantut (2019-2021)
 ![najwazmri's Stats](https://github-readme-stats.vercel.app/api?username=najwazmri&theme=dark&show_icons=true&hide_border=false&count_private=true)
 [![](https://visitcount.itsvg.in/api?id=najwazmri&icon=0&color=0)](https://visitcount.itsvg.in)![najwazmri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=najwazmri&theme=dark&hide_border=false)
 
+![snake gif](https://github.com/najwazmri/najwazmri/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
