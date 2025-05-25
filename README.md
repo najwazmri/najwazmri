@@ -1,4 +1,5 @@
-![Cream and Beige Gradient Creative Portfolio Presentati](https://github.com/user-attachments/assets/4f553272-1014-4f86-ab54-796ceb6f1ace)
+![Cream and Beige Gradient Creative Portfolio Presentation](https://github.com/user-attachments/assets/52a9d652-1771-4abc-9bf2-14df294e6cb4)
+
 - 👋 Hi, I’m @najwazmri
 - 👩🏻‍🎓 A new software engineering student eager to      learn, explore, and build! 
 - 🌿 I'm passionate about coding, problem-solving, and understanding the foundations of software development.
