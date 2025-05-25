@@ -1,3 +1,5 @@
+![Uploading github-header-image.png…]()
+
 - 👋 Hi, I’m @najwazmri
 - 👩🏻‍🎓 A new software engineering student eager to      learn, explore, and build! 
 - 🌿 I'm passionate about coding, problem-solving, and understanding the foundations of software development.
