@@ -4,7 +4,14 @@
 - 👩🏻‍🎓 A new software engineering student eager to      learn, explore, and build! 
 - 🌿 I'm passionate about coding, problem-solving, and understanding the foundations of software development.
 - 🎨 By night, I bring ideas to life as a part-time designer. Balancing both worlds keeps me learning and growing!
+- 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/syahidatul-najwa-zamri-1b003124a/)
+  
+## Education
+🎓 **Bachelor of Science Computer (Software Engineering)**  
+University of Technology Malaysia (2025-2029)  
 
+🎓 **Diploma In Product Design**  
+Advanced Technology Training Centre (ADTEC) Jerantut (2019-2021)
 
 
 ## 🌐 Socials:
