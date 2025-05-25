@@ -1,7 +1,8 @@
+![](https://komarev.com/ghpvc/?username=your-github-najwazmri&color=lightgrey)
 ![Cream and Beige Gradient Creative Portfolio Presentation](https://github.com/user-attachments/assets/52a9d652-1771-4abc-9bf2-14df294e6cb4)
 
 - 👋 Hi, I’m @najwazmri
-- 👩🏻‍🎓 A new software engineering student eager to      learn, explore, and build! 
+- 👩🏻‍🎓 A new software engineering student eager to learn, explore, and build! 
 - 🌿 I'm passionate about coding, problem-solving, and understanding the foundations of software development.
 - 🎨 By night, I bring ideas to life as a part-time designer. Balancing both worlds keeps me learning and growing!
 - 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/syahidatul-najwa-zamri-1b003124a/)
