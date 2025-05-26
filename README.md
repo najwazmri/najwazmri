@@ -6,8 +6,10 @@
 <p align="center">- 🌿 I'm passionate about coding, problem-solving, and understanding the foundations of software development.
 <p align="center">- 🎨 By night, I bring ideas to life as a part-time designer. Balancing both worlds keeps me learning and growing!
 
+
+
   
-<p align="center">## Education
+## Education
 <p align="center">🎓 **Bachelor of Science Computer (Software Engineering)**  
 <p align="center">University of Technology Malaysia (2025-2029)  
 
