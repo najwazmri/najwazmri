@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-najwazmri&color=lightgrey)
 ![Cream and Beige Gradient Creative Portfolio Presentation](https://github.com/user-attachments/assets/52a9d652-1771-4abc-9bf2-14df294e6cb4)
 
-<p align="center">- 👋 Hi, I’m @najwazmri
-<p align="center">- 👩🏻‍🎓 A new software engineering student eager to learn, explore, and build! 
-<p align="center">- 🌿 I'm passionate about coding, problem-solving, and understanding the foundations of software development.
-<p align="center">- 🎨 By night, I bring ideas to life as a part-time designer. Balancing both worlds keeps me learning and growing!
+<p align="center"> 👋 Hi, I’m @najwazmri
+<p align="center"> 👩🏻‍🎓 A new software engineering student eager to learn, explore, and build! 
+<p align="center"> 🌿 I'm passionate about coding, problem-solving, and understanding the foundations of software development.
+<p align="center"> 🎨 By night, I bring ideas to life as a part-time designer. Balancing both worlds keeps me learning and growing!
 
 
 
@@ -13,10 +13,11 @@
 <p align="center">🎓 **Bachelor of Science Computer (Software Engineering)**  
 <p align="center">University of Technology Malaysia (2025-2029)  
 
+
 <p align="center">📚 **Current Courses (Semester 2 2024/2025):**
-<p align="center">- SECP1513 - Technology and Information Systems
-<p align="center">- SECD2613 - Syastem Analysis & Design
-<p align="center">- SECI2143 - Probability & Statistic Data Analysis
+<p align="center"> SECP1513 - Technology and Information Systems
+<p align="center"> SECD2613 - Syastem Analysis & Design
+<p align="center"> SECI2143 - Probability & Statistic Data Analysis
 
 
 ## 🌐 Socials:
