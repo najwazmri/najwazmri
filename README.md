@@ -8,13 +8,14 @@
 
 
 
+<div align="center">  
   
-## Education
-<p align="center">🎓 **Bachelor of Science Computer (Software Engineering)**  
+## Education 📚
+<p align="center">🎓 <b>Bachelor of Science Computer (Software Engineering)</b></p>
 <p align="center">University of Technology Malaysia (2025-2029)  
 
 
-<p align="center">📚 **Current Courses (Semester 2 2024/2025):**
+<p align="center">📚 <b>Current Courses (Semester 2 2024/2025)</b></p>
 <p align="center"> SECP1513 - Technology and Information Systems
 <p align="center"> SECD2613 - Syastem Analysis & Design
 <p align="center"> SECI2143 - Probability & Statistic Data Analysis
